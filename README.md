@@ -1,4 +1,4 @@
-Files for MySensors 2.1.1 platform for Arduino which alow to build a gateway with W5100 and RFM69 radio modules as MQTT client.
+Files for MySensors 2.1.1 platform for Arduino which alow to build a gateway with W5100 and RFM69 radio modules.
 ===============================================================================
 
 This repository contains files which alow you to run gateway with W5100 and RFM69 radio modules with software SPI, and should be replaced in original MySensors 2.1.1 library.
